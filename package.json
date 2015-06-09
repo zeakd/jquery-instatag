@@ -1,0 +1,27 @@
+{
+  "name": "jquery-instatag",
+  "version": "1.0.0",
+  "description": "get instagram data by multiple tags",
+  "main": "jquery.instatag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeakd/jquery.instatag.js.git"
+  },
+  "keywords": [
+    "tag",
+    "tags",
+    "jquery",
+    "instagram",
+    "insta",
+    "image"
+  ],
+  "author": "zeakd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeakd/jquery.instatag.js/issues"
+  },
+  "homepage": "https://github.com/zeakd/jquery.instatag.js#readme"
+}

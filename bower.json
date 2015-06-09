@@ -1,0 +1,30 @@
+{
+  "name": "jquery-instatag",
+  "main": "jquery.instatag.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/zeakd/jquery.instatag.js",
+  "description": "get instagram data by multiple tags",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "tag",
+    "tags",
+    "instagram",
+    "insta",
+    "jquery",
+    "image"
+  ],
+  "authors": [
+    "zeakd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
