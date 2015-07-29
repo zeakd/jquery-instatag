@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeakd/jquery.instatag.js.git"
+    "url": "git+https://github.com/zeakd/jquery-instatag.git"
   },
   "keywords": [
     "tag",
@@ -21,9 +21,9 @@
   "author": "zeakd",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zeakd/jquery.instatag.js/issues"
+    "url": "https://github.com/zeakd/jquery-instatag/issues"
   },
-  "homepage": "https://github.com/zeakd/jquery.instatag.js#readme",
+  "homepage": "https://github.com/zeakd/jquery-instatag#readme",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-run": "^0.3.0",
