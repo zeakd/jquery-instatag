@@ -38,7 +38,7 @@
 	function _buildUrl(tagName){
 		return "https://api.instagram.com/v1/tags/" + encodeURIComponent(tagName) + "/media/recent";
 	};
-	Instatag.prototype.send = function(){
+	Instatag.prototype.get = function(){
 		var self = this;
 		$.each(self.opts.tags, function(idx, tag){
 			var instaParams = {
