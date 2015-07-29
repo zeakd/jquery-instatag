@@ -1,6 +1,6 @@
 {
   "name": "jquery-instatag",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get instagram data by multiple tags",
   "main": "jquery.instatag.js",
   "scripts": {
